@@ -1,18 +1,18 @@
 ### แหล่งรวม free programming ebooks ฟรีหนังสือการเขียนโปรแกรม และแหล่งความรู้ด้านการเขียนโปรแกรม
 
-ทีมงาน codesanook.com ได้รวบรวม link ของ free programming ebooks ที่มีทั้งรูปแบบ pdf, epub, mobi ให้ download
-หรือแบบเป็นอ่านออนไลน์ โดยทำการแบ่งหมวดหมู่เพื่อง่ายกต่อการอ่านและค้นหา
+ทีมงาน [codesanook.com](https://www.codesanook.com) ได้รวบรวม link ของ free programming ebooks ที่มีทั้งรูปแบบ pdf, epub, mobi ให้ download
+หรืออ่านแบบออนไลน์ โดยทำการแบ่งหมวดหมู่เพื่อง่ายต่อการอ่านและค้นหา
 
-หากท่านใดมี link ของ free ebooks ที่เป็นประโยชน์ ต้องการ share ต่อ สามารถ fork repository นี้และสร้าง PR มาได้เลยครับ หรือถ้าไม่ถนัดสร้าง PR สามารถ inbox ติดต่อ admin โดยตรงที่ page https://www.facebook.com/codesanookpage
+หากท่านใดมี link ของ free ebooks หรือแหล่งความรู้ที่เป็นประโยชน์ ต้องการแบ่งปันต่อ 
+สามารถ fork repository นี้ แล้วสร้าง PR มาได้เลยครับ 
+หรือถ้าไม่ถนัดสร้าง PR สามารถ inbox ติดต่อ admin โดยตรงที่ page https://www.facebook.com/codesanookpage ครับ
 
-รายชื่อหนังสือแบ่งตามหมวยหมู่ของ technology/framework
-
+รายชื่อหนังสือและแหล่งความรู้แบ่งตามหมวดหมู่ของ technology/framework
 
 ## :blue_book: Table of Contents
-
 [CSS HTML](#css-html)
 
-## CSS HTML
+### CSS HTML
 - [TWITTER BOOTSTRAP 4 SUCCINCTLY](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly)
 - [W3.CSS SUCCINCTLY](https://www.syncfusion.com/ebooks/w3_css_succinctly)
 - [HTML & CSS IS HARD. BUT IT DOESN’T HAVE TO BE.](https://internetingishard.com/html-and-css/)
