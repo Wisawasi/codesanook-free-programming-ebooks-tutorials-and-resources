@@ -12,6 +12,7 @@
 ## :blue_book: Table of Contents
 - [CSS HTML](#css-html)
 - [PowerShell](#powershell)
+- 💾 [SQL Server](#sql-server)
 - [Webpack](#webpack)
 
 ### CSS HTML
@@ -52,6 +53,26 @@
 - [Windows PowerShell Desired State Configuration Overview](http://ligman.me/1vKOGot)
 - [WMI in Windows PowerShell 4.0](http://ligman.me/1H7bxTv)
 - [Windows PowerShell: Elements of Windows Management Infrastructure (WMI)](http://ligman.me/1G0DEjb)
+
+### SQL Server 
+- [Introducing Microsoft SQL Server 2016: Mission-Critical Applications, Deeper Insights, Hyperscale Cloud, Preview 2](http://ligman.me/29fJpEc)
+- [Introducing Microsoft SQL Server 2014](http://ligman.me/29fJA2g)
+- [SQL Server Internals: In-Memory OLTP (Second Edition)](https://www.red-gate.com/library/sql-server-internals-in-memory-oltp)
+- [SQL Server Execution Plans, Second Edition, by Grant Fritchey](http://download.red-gate.com/ebooks/SQL/eBOOK_SQLServerExecutionPlans_2Ed_G_Fritchey.pdf)
+- [The Art of SQL Server FILESTREAM](http://assets.red-gate.com/community/books/art-of-ss-filestream.pdf)
+- [Performance Tuning With SQL Server Dynamic Management Views](http://assets.red-gate.com/community/books/performance-tuning-with-dmvs.pdf)
+- [Brad’s Sure Guide to SQL Server Maintenance Plans](http://assets.red-gate.com/community/books/sql-server-maintenance-plans-brad-ebook.pdf)
+- [Monitor and Tune for Performance](http://aka.ms/684751epub)
+- [SQL Server 2012 Tutorials: Reporting Services](http://ligman.me/14gkBRc)
+- [SQL Server 2012 Tutorials: Writing Transact-SQL Statements](http://ligman.me/13QdHDb)
+- [SQL Server 2012 Tutorials: Analysis Services – Data Mining](http://ligman.me/OueFPb)
+- [Backup and Restore of SQL Server Databases](http://ligman.me/Oufwzg)
+- [Mission Critical Performance and Scale with SQL Server and Windows Server Technical White Paper](http://ligman.me/1S1i4C0)
+- [Migrating from Oracle to SQL Server 2014 and Azure SQL Database](http://ligman.me/1ReR3Qq)
+- [Microsoft SQL Server AlwaysOn Solutions Guide for High Availability and Disaster Recovery](http://ligman.me/Oue0NG)
+- [SQL Server Community FAQs Manual](http://ligman.me/15fXTHQ)
+- [High Availability Solutions](http://ligman.me/14HcD5O)
+- [Troubleshooting SQL Server AlwaysOn](http://ligman.me/1sl39Hs)
 
 ### Webpack
 - [SurviveJS - Webpack From apprentice to master](https://survivejs.com/webpack/foreword/)
