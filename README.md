@@ -11,6 +11,7 @@
 
 ## :blue_book: Table of Contents
 - [CSS HTML](#css-html)
+- [PowerShell](#powershell)
 - [Webpack](#webpack)
 
 ### CSS HTML
@@ -44,5 +45,14 @@
 - [A POCKET GUIDE TO CSS ANIMATIONS](https://cssanimationspocketguide.com/)
 - [SCALABLE AND MODULAR ARCHITECTURE FOR CSS](http://smacss.com/)
 
+### PowerShell
+- [Windows Powershell 4.0 Examples Quick Guide](http://ligman.me/1omCrM6)
+- [Windows PowerShell Web Access](http://ligman.me/1j5aDhH)
+- [Windows PowerShell Integrated Scripting Environment 4.0](http://ligman.me/1n3mkVY)
+- [Windows PowerShell Desired State Configuration Overview](http://ligman.me/1vKOGot)
+- [WMI in Windows PowerShell 4.0](http://ligman.me/1H7bxTv)
+- [Windows PowerShell: Elements of Windows Management Infrastructure (WMI)](http://ligman.me/1G0DEjb)
+
 ### Webpack
 - [SurviveJS - Webpack From apprentice to master](https://survivejs.com/webpack/foreword/)
+
