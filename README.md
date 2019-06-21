@@ -10,10 +10,19 @@
 รายชื่อหนังสือและแหล่งความรู้แบ่งตามหมวดหมู่ของ technology/framework
 
 ## :blue_book: Table of Contents
+- [C#](#c)
 - [CSS HTML](#css-html)
 - [PowerShell](#powershell)
 - 💾 [SQL Server](#sql-server)
 - [Webpack](#webpack)
+
+### C#
+- [C# Yellow Book](http://www.csharpcourse.com/)
+- [C Sharp Programming](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+- [Threading in C#](http://www.albahari.com/threading/)
+- [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+- [.NET Book Zero](http://www.charlespetzold.com/dotnet/)
+- [C# Succinctly](https://www.syncfusion.com/ebooks/csharp)
 
 ### CSS HTML
 - [TWITTER BOOTSTRAP 4 SUCCINCTLY](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly)
