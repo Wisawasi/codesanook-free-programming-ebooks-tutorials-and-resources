@@ -13,6 +13,7 @@
 - [C#](#c)
 - [CSS HTML](#css-html)
 - [PowerShell](#powershell)
+- [Oracle](#oracle)
 - 💾 [SQL Server](#sql-server)
 - [Webpack](#webpack)
 
@@ -54,6 +55,9 @@
 - [THE MAGIC OF CSS](https://adamschwartz.co/magic-of-css/)
 - [A POCKET GUIDE TO CSS ANIMATIONS](https://cssanimationspocketguide.com/)
 - [SCALABLE AND MODULAR ARCHITECTURE FOR CSS](http://smacss.com/)
+
+### Oracle
+- [Oracle Tutorial/Oracle Basics](https://www.oracletutorial.com/oracle-basics)
 
 ### PowerShell
 - [Windows Powershell 4.0 Examples Quick Guide](http://ligman.me/1omCrM6)
