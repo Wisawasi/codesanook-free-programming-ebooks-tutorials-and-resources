@@ -16,6 +16,7 @@
 - [Oracle](#oracle)
 - 💾 [SQL Server](#sql-server)
 - [Webpack](#webpack)
+- [Xamarin Forms (Cross platform mobile application framework)](#xamarin)
 
 ### C#
 - [C# Yellow Book](http://www.csharpcourse.com/)
@@ -90,3 +91,9 @@
 ### Webpack
 - [SurviveJS - Webpack From apprentice to master](https://survivejs.com/webpack/foreword/)
 
+### Xamarin
+- [Creating Mobile Apps with Xamarin.Forms book](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/#download-ebook-for-free)
+- [Enterprise Application Patterns using Xamarin.Forms eBook](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/#related-links)
+- [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly)
+- [Free PDF eBook: Xamarin Cross-Platform Development Cookbook](https://www.packtpub.com/free-ebooks/xamarin-cross-platform-development-cookbook)
+- [Xamarin.Forms Notes for Professionals book](https://goalkicker.com/XamarinFormsBook/XamarinFormsNotesForProfessionals.pdf)
