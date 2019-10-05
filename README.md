@@ -113,6 +113,8 @@
 - [Contoso](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/contoso-data-warehouse)
 - [Northwind and pubs](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 - [WideWorldImporters](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers)
+- [Sample Databases from SQLSkills, e.g. Credit, SaleDB](https://www.sqlskills.com/sql-server-resources/sql-server-demos/)
+- [2008 Credit Sample Database (Used in SQL Server: Query Plan Analysis course)](https://www.sqlskills.com/resources/conferences/creditbackup100.zip)
 
 ### Webpack
 
