@@ -18,6 +18,7 @@
 - [Oracle](#oracle)
 - 🖥️ [SQL sample databases](#sql-sample-databases)
 - 💾 [SQL Server](#sql-server)
+- [Vim](#vim)
 - [Webpack](#webpack)
 - [Xamarin Forms (Cross platform mobile application framework)](#xamarin)
 
@@ -121,6 +122,9 @@
 - [Sample Databases from SQLSkills, e.g. Credit, SaleDB](https://www.sqlskills.com/sql-server-resources/sql-server-demos/)
 - [2008 Credit Sample Database (Used in SQL Server: Query Plan Analysis course)](https://www.sqlskills.com/resources/conferences/creditbackup100.zip)
 
+### Vim
+
+- [วิดีโอสอนใช้งาน Vim ภาษาไทย](https://www.youtube.com/watch?v=gcmIifYH3iI&list=PLt-twymrmZ2cnk-8JZIrdHFSrh4_LPnLU)
 ### Webpack
 
 - [SurviveJS - Webpack From apprentice to master](https://survivejs.com/webpack/foreword/)
