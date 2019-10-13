@@ -14,6 +14,7 @@
 - [CSS HTML](#css-html)
 - [Go](#go)
 - [PowerShell](#powershell)
+- [Linux](#linux)
 - [Oracle](#oracle)
 - 🖥️ [SQL sample databases](#sql-sample-databases)
 - 💾 [SQL Server](#sql-server)
@@ -85,6 +86,10 @@
 - [Windows PowerShell Desired State Configuration Overview](http://ligman.me/1vKOGot)
 - [WMI in Windows PowerShell 4.0](http://ligman.me/1H7bxTv)
 - [Windows PowerShell: Elements of Windows Management Infrastructure (WMI)](http://ligman.me/1G0DEjb)
+
+### Linux
+
+- [พื้นฐานระบบปฏิบัติการยูนิกซ์ (Fundamentals of UNIX)](https://isan.msu.ac.th/suchart/Unix/FundaOfUnix.pdf)
 
 ### SQL Server
 
