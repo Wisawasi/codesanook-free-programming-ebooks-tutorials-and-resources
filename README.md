@@ -44,7 +44,7 @@
 - [TWITTER BOOTSTRAP 4 SUCCINCTLY](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly)
 - [W3.CSS SUCCINCTLY](https://www.syncfusion.com/ebooks/w3_css_succinctly)
 - [HTML & CSS IS HARD. BUT IT DOESN’T HAVE TO BE.](https://internetingishard.com/html-and-css/)
-- [Front-End Developer Handbook 2017 ](https://legacy.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
+- [Front-End Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [MARKSHEET](https://marksheet.io/)
 - [LEARN TO CODE HTML & CSS. DEVELOP & STYLE WEBSITES](https://learn.shayhowe.com/html-css/)
 - [LEARN TO CODE ADVANCED HTML & CSS. DEVELOP & STYLE WEBSITES](https://learn.shayhowe.com/advanced-html-css/)
